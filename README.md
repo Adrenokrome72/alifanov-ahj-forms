@@ -1,11 +1,11 @@
 # Popover Widget
 
-[![CI](https://github.com/Adrenokrome72/alifanov-ahj-forms/actions/workflows/deploy.yml/badge.svg)](https://github.com/Adrenokrome72/alifanov-ahj-forms/actions)
+[![CI](https://github.com/Adrenokrome72/alifanov-ahj-forms/actions/workflows/ci.yml/badge.svg)](https://github.com/Adrenokrome72/alifanov-ahj-forms/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://Adrenokrome72.github.io/alifanov-ahj-forms)
 
 Реализация виджета Popover на чистом JavaScript для домашнего задания по работе с HTML-формами.
 
-## Особенности
+## Возможности
 - Показ/скрытие по клику
 - Позиционирование над элементом
 - Адаптивная ширина
